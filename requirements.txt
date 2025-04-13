@@ -1,0 +1,5 @@
+undetected-chromedriver==3.5.3
+selenium==4.10.0
+requests
+fake_useragent
+beautifulsoup4
